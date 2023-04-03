@@ -7,3 +7,27 @@ header {
     color: khaki;
     text-align: center;
 }
+
+#brushes {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+
+h4 {
+    text-transform: capitalize;
+    font-family: Helvetica;
+    color: black;
+}
+
+p {
+    color: black;
+}
+
+.price-start {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
