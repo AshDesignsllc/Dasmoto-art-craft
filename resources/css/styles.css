@@ -6,6 +6,7 @@ header {
     text-transform:capitalize;
     color: khaki;
     text-align: center;
+    margin: 50px 0;
 }
 
 #brushes {
@@ -20,14 +21,32 @@ h4 {
     text-transform: capitalize;
     font-family: Helvetica;
     color: black;
+    font-size: 20px;
 }
 
 p {
     color: black;
+    font-size: 16px;
 }
 
 .price-start {
     font-family: Helvetica;
     font-weight: bold;
     color: blue;
+}
+
+#frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
 }
